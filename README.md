@@ -1,1 +1,1 @@
-# Static and Dynamic Routes
+# <a href="https://nextjs.org/docs/pages/building-your-application/data-fetching/get-static-props">getStaticProps</a> and <a href="https://nextjs.org/docs/pages/building-your-application/data-fetching/get-static-paths">getStaticPaths</a>
