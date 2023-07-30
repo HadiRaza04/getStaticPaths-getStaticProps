@@ -1,1 +1,1 @@
-# <a href="https://nextjs.org/docs/pages/building-your-application/data-fetching/get-static-props">getStaticProps</a> and <a href="https://nextjs.org/docs/pages/building-your-application/data-fetching/get-static-paths">getStaticPaths</a>
+# <a href="https://nextjs.org/docs/pages/building-your-application/data-fetching/get-static-props" target="_blank">getStaticProps</a> and <a href="https://nextjs.org/docs/pages/building-your-application/data-fetching/get-static-paths"  target="_blank">getStaticPaths</a>
